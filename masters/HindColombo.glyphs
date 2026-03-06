@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3513";
 DisplayStrings = (
 "{",
 ">",
@@ -594,7 +594,7 @@ xHeight = 507;
 glyphs = (
 {
 glyphname = snA;
-lastChange = "2015-10-06 07:36:11 +0000";
+lastChange = "2026-02-27 03:10:15 +0000";
 layers = (
 {
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -59525,7 +59525,7 @@ unicode = 017D;
 },
 {
 glyphname = a;
-lastChange = "2023-03-19 05:20:32 +0000";
+lastChange = "2026-02-27 03:10:15 +0000";
 layers = (
 {
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
@@ -62895,7 +62895,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2023-03-19 05:20:32 +0000";
+lastChange = "2026-02-27 03:10:15 +0000";
 layers = (
 {
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
@@ -134261,6 +134261,7 @@ width = 616;
 );
 instances = (
 {
+exports = 0;
 interpolationWeight = 0;
 instanceInterpolations = {
 "25BA55F5-DD3E-4682-A696-ADF7D9496427" = 1;
@@ -134269,6 +134270,7 @@ name = Light;
 weightClass = Light;
 },
 {
+exports = 0;
 interpolationWeight = 21;
 instanceInterpolations = {
 "25BA55F5-DD3E-4682-A696-ADF7D9496427" = 0.79;
@@ -134277,15 +134279,16 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-interpolationWeight = 44;
+interpolationWeight = 25;
 instanceInterpolations = {
-"25BA55F5-DD3E-4682-A696-ADF7D9496427" = 0.56;
-"7B4D842D-CA8D-4153-9CDE-FADFBE419175" = 0.44;
+"25BA55F5-DD3E-4682-A696-ADF7D9496427" = 0.75;
+"7B4D842D-CA8D-4153-9CDE-FADFBE419175" = 0.25;
 };
 name = Medium;
 weightClass = Medium;
 },
 {
+exports = 0;
 interpolationWeight = 70;
 instanceInterpolations = {
 "25BA55F5-DD3E-4682-A696-ADF7D9496427" = 0.3;
@@ -134295,6 +134298,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+exports = 0;
 instanceInterpolations = {
 "7B4D842D-CA8D-4153-9CDE-FADFBE419175" = 1;
 };
