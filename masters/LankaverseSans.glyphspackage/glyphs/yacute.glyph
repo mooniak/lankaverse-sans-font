@@ -1,0 +1,36 @@
+{
+glyphname = yacute;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = y;
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, 90, -67}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 532;
+},
+{
+components = (
+{
+alignment = -1;
+name = y;
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, 112, -86}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 482;
+}
+);
+unicode = 00FD;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = Dcaron;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = D;
+},
+{
+alignment = -1;
+name = caron;
+transform = "{1, 0, 0, 1, 70, 100}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 683;
+},
+{
+components = (
+{
+alignment = -1;
+name = D;
+},
+{
+alignment = -1;
+name = caron;
+transform = "{1, 0, 0, 1, 103, 80}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 655;
+}
+);
+unicode = 010E;
+}

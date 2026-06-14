@@ -1,0 +1,36 @@
+{
+glyphname = zdotaccent;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = dotaccent;
+transform = "{1, 0, 0, 1, 2, -69}";
+},
+{
+alignment = -1;
+name = z;
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 479;
+},
+{
+components = (
+{
+alignment = -1;
+name = dotaccent;
+transform = "{1, 0, 0, 1, 40, -90}";
+},
+{
+alignment = -1;
+name = z;
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 446;
+}
+);
+unicode = 017C;
+}

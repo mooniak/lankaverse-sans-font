@@ -1,0 +1,54 @@
+{
+glyphname = T;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"350 0 LINE",
+"350 653 LINE",
+"195 653 LINE",
+"195 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"514 550 LINE",
+"514 674 LINE",
+"30 674 LINE",
+"30 550 LINE"
+);
+}
+);
+width = 544;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"263 0 LINE",
+"263 674 LINE",
+"201 674 LINE",
+"201 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"450 617 LINE",
+"450 674 LINE",
+"15 674 LINE",
+"15 617 LINE"
+);
+}
+);
+width = 465;
+}
+);
+unicode = 0054;
+}

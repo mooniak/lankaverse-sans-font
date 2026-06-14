@@ -1,0 +1,54 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"332 621 LINE",
+"463 798 LINE",
+"318 798 LINE",
+"224 621 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 621 LINE",
+"256 798 LINE",
+"123 798 LINE",
+"37 621 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"231 648 LINE",
+"366 798 LINE",
+"285 798 LINE",
+"182 648 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 648 LINE",
+"214 798 LINE",
+"133 798 LINE",
+"34 648 LINE"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 02DD;
+}

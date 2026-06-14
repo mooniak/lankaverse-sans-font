@@ -1,0 +1,42 @@
+{
+glyphname = caron;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"32 798 LINE",
+"171 798 LINE",
+"250 702 LINE",
+"329 798 LINE",
+"468 798 LINE",
+"312 621 LINE",
+"188 621 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"49 798 LINE",
+"113 798 LINE",
+"200 691 LINE",
+"286 798 LINE",
+"350 798 LINE",
+"231 648 LINE",
+"168 648 LINE"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 02C7;
+}

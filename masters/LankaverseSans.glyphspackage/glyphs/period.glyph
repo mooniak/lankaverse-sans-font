@@ -1,0 +1,52 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 32 OFFCURVE",
+"80 -8 OFFCURVE",
+"129 -8 CURVE SMOOTH",
+"178 -8 OFFCURVE",
+"218 32 OFFCURVE",
+"218 81 CURVE SMOOTH",
+"218 130 OFFCURVE",
+"178 170 OFFCURVE",
+"129 170 CURVE SMOOTH",
+"80 170 OFFCURVE",
+"40 130 OFFCURVE",
+"40 81 CURVE SMOOTH"
+);
+}
+);
+width = 258;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 14 OFFCURVE",
+"42 -8 OFFCURVE",
+"71 -8 CURVE SMOOTH",
+"100 -8 OFFCURVE",
+"122 14 OFFCURVE",
+"122 43 CURVE SMOOTH",
+"122 72 OFFCURVE",
+"100 94 OFFCURVE",
+"71 94 CURVE SMOOTH",
+"42 94 OFFCURVE",
+"20 72 OFFCURVE",
+"20 43 CURVE SMOOTH"
+);
+}
+);
+width = 142;
+}
+);
+unicode = 002E;
+}

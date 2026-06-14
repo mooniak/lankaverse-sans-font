@@ -1,0 +1,54 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"334 433 LINE",
+"475 694 LINE",
+"317 694 LINE",
+"213 433 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"149 433 LINE",
+"270 694 LINE",
+"124 694 LINE",
+"28 433 LINE"
+);
+}
+);
+width = 452;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"185 481 LINE",
+"300 695 LINE",
+"219 695 LINE",
+"140 481 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"53 481 LINE",
+"168 695 LINE",
+"87 695 LINE",
+"8 481 LINE"
+);
+}
+);
+width = 289;
+}
+);
+unicode = 201D;
+}

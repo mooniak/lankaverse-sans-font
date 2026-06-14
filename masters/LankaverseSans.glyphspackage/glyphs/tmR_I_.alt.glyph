@@ -1,0 +1,36 @@
+{
+color = 9;
+glyphname = tmRI.alt;
+layers = (
+{
+components = (
+{
+name = tmRA.alt;
+},
+{
+name = tmmI;
+transform = "{1, 0, 0, 1, 565, 0}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+name = Light;
+width = 813;
+},
+{
+components = (
+{
+name = tmRA.alt;
+},
+{
+name = tmmI;
+transform = "{1, 0, 0, 1, 645, 0}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+name = Bold;
+width = 937;
+}
+);
+leftMetricsKey = tmRA.alt;
+rightMetricsKey = tmmI;
+}

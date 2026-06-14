@@ -1,0 +1,27 @@
+{
+displayStrings = (
+"{",
+">",
+"<",
+"/greaterequal",
+"&",
+"/lessequal",
+"/radical",
+v,
+y,
+"Ï",
+"/Idotaccent",
+M,
+"Ö",
+"/Ohungarumlaut",
+"/Scedilla",
+"Ü",
+"/Uhungarumlaut",
+V,
+W,
+X,
+"/Zdotaccent",
+"/snA",
+"/tmOO"
+);
+}

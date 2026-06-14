@@ -1,0 +1,36 @@
+{
+glyphname = tmHU;
+layers = (
+{
+components = (
+{
+name = tmHA;
+},
+{
+alignment = -1;
+name = tmmU;
+transform = "{1, 0, 0, 1, 1587, 0}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+name = Light;
+width = 1993;
+},
+{
+components = (
+{
+alignment = -1;
+name = tmHA;
+},
+{
+name = tmmU;
+transform = "{1, 0, 0, 1, 1607, 0}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+name = Bold;
+width = 2064;
+}
+);
+leftMetricsKey = tmHA;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = Ograve;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 72, 100}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 736;
+},
+{
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 89, 81}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 691;
+}
+);
+unicode = 00D2;
+}

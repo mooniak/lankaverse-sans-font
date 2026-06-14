@@ -1,0 +1,36 @@
+{
+glyphname = atilde;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = a;
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, 6, -47}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 516;
+},
+{
+components = (
+{
+alignment = -1;
+name = a;
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, 38, -73}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 486;
+}
+);
+unicode = 00E3;
+}

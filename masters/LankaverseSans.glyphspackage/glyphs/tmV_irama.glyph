@@ -1,0 +1,120 @@
+{
+color = 4;
+glyphname = tmVirama;
+layers = (
+{
+anchors = (
+{
+name = _abvm;
+position = "{0, 543}";
+}
+);
+background = {
+anchors = (
+{
+name = _abvm;
+position = "{0, 543}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"24 599 OFFCURVE",
+"44 619 OFFCURVE",
+"44 643 CURVE SMOOTH",
+"44 666 OFFCURVE",
+"24 686 OFFCURVE",
+"1 686 CURVE SMOOTH",
+"-23 686 OFFCURVE",
+"-43 666 OFFCURVE",
+"-43 643 CURVE SMOOTH",
+"-43 619 OFFCURVE",
+"-23 599 OFFCURVE",
+"1 599 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"25 615 OFFCURVE",
+"46 636 OFFCURVE",
+"46 661 CURVE SMOOTH",
+"46 685 OFFCURVE",
+"25 706 OFFCURVE",
+"1 706 CURVE SMOOTH",
+"-24 706 OFFCURVE",
+"-45 685 OFFCURVE",
+"-45 661 CURVE SMOOTH",
+"-45 636 OFFCURVE",
+"-24 615 OFFCURVE",
+"1 615 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _abvm;
+position = "{0, 575}";
+}
+);
+background = {
+anchors = (
+{
+name = _abvm;
+position = "{0, 576}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"34 627 OFFCURVE",
+"61 654 OFFCURVE",
+"61 688 CURVE SMOOTH",
+"61 720 OFFCURVE",
+"34 747 OFFCURVE",
+"1 747 CURVE SMOOTH",
+"-33 747 OFFCURVE",
+"-60 720 OFFCURVE",
+"-60 688 CURVE SMOOTH",
+"-60 654 OFFCURVE",
+"-33 627 OFFCURVE",
+"1 627 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"49 637 OFFCURVE",
+"88 676 OFFCURVE",
+"88 726 CURVE SMOOTH",
+"88 772 OFFCURVE",
+"49 811 OFFCURVE",
+"1 811 CURVE SMOOTH",
+"-48 811 OFFCURVE",
+"-87 772 OFFCURVE",
+"-87 726 CURVE SMOOTH",
+"-87 676 OFFCURVE",
+"-48 637 OFFCURVE",
+"1 637 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

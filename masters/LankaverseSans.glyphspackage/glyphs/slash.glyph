@@ -1,0 +1,36 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"149 -103 LINE",
+"509 707 LINE",
+"357 707 LINE",
+"-2 -103 LINE"
+);
+}
+);
+width = 464;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 -102 LINE",
+"417 707 LINE",
+"355 707 LINE",
+"-11 -102 LINE"
+);
+}
+);
+width = 387;
+}
+);
+unicode = 002F;
+}

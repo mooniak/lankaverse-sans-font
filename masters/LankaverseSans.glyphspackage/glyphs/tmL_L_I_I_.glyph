@@ -1,0 +1,36 @@
+{
+glyphname = tmLLII;
+layers = (
+{
+components = (
+{
+name = tmLLA;
+},
+{
+alignment = -1;
+name = tmmII;
+transform = "{1, 0, 0, 1, 1036, 0}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+name = Light;
+width = 1063;
+},
+{
+components = (
+{
+alignment = -1;
+name = tmLLA;
+},
+{
+name = tmmII;
+transform = "{1, 0, 0, 1, 1104, 0}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+name = Bold;
+width = 1142;
+}
+);
+leftMetricsKey = tmLLA;
+}

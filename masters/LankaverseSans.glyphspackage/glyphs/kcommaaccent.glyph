@@ -1,0 +1,90 @@
+{
+glyphname = kcommaaccent;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"254 -262 LINE",
+"370 -51 LINE",
+"219 -51 LINE",
+"148 -262 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"537 0 LINE",
+"358 264 LINE",
+"196 264 LINE",
+"368 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"206 0 LINE",
+"206 690 LINE",
+"60 690 LINE",
+"60 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 264 LINE",
+"534 507 LINE",
+"366 507 LINE",
+"195 264 LINE"
+);
+}
+);
+width = 548;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"163 -238 LINE",
+"273 -51 LINE",
+"197 -51 LINE",
+"109 -238 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"440 0 LINE",
+"226 266 LINE",
+"152 266 LINE",
+"364 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 0 LINE",
+"137 707 LINE",
+"76 707 LINE",
+"76 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 266 LINE",
+"433 507 LINE",
+"358 507 LINE",
+"152 266 LINE"
+);
+}
+);
+width = 462;
+}
+);
+unicode = 0137;
+}

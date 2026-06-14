@@ -1,0 +1,76 @@
+{
+glyphname = Delta.math;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"439 674 LINE",
+"245 674 LINE",
+"35 101 LINE",
+"35 0 LINE",
+"158 0 LINE",
+"245 268 LINE",
+"316 488 OFFCURVE",
+"340 562 OFFCURVE",
+"340 562 CURVE",
+"340 562 OFFCURVE",
+"364 488 OFFCURVE",
+"435 268 CURVE",
+"522 0 LINE",
+"646 0 LINE",
+"646 101 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"561 0 LINE",
+"561 124 LINE",
+"146 124 LINE",
+"146 0 LINE"
+);
+}
+);
+width = 681;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"348 674 LINE",
+"258 674 LINE",
+"30 57 LINE",
+"30 0 LINE",
+"77 0 LINE",
+"170 260 LINE SMOOTH",
+"277 558 OFFCURVE",
+"303 625 OFFCURVE",
+"303 625 CURVE",
+"303 625 OFFCURVE",
+"329 559 OFFCURVE",
+"433 261 CURVE SMOOTH",
+"524 0 LINE",
+"571 0 LINE",
+"571 57 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"550 0 LINE",
+"550 55 LINE",
+"52 55 LINE",
+"52 0 LINE"
+);
+}
+);
+width = 601;
+}
+);
+unicode = 2206;
+}

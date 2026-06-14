@@ -1,0 +1,36 @@
+{
+glyphname = I;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"229 0 LINE",
+"229 674 LINE",
+"75 674 LINE",
+"75 0 LINE"
+);
+}
+);
+width = 304;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"147 0 LINE",
+"147 674 LINE",
+"85 674 LINE",
+"85 0 LINE"
+);
+}
+);
+width = 232;
+}
+);
+unicode = 0049;
+}

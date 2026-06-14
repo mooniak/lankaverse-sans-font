@@ -1,0 +1,84 @@
+{
+glyphname = pi;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"516 0 LINE",
+"516 466 LINE",
+"370 466 LINE",
+"370 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 133 OFFCURVE",
+"82 119 OFFCURVE",
+"39 119 CURVE",
+"39 0 LINE",
+"182 0 OFFCURVE",
+"246 51 OFFCURVE",
+"246 216 CURVE SMOOTH",
+"246 466 LINE",
+"100 466 LINE",
+"100 201 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"596 400 LINE",
+"596 507 LINE",
+"20 507 LINE",
+"20 400 LINE"
+);
+}
+);
+width = 606;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"456 0 LINE",
+"456 467 LINE",
+"395 467 LINE",
+"395 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"125 74 OFFCURVE",
+"102 56 OFFCURVE",
+"41 56 CURVE",
+"41 0 LINE",
+"123 0 OFFCURVE",
+"186 32 OFFCURVE",
+"186 152 CURVE SMOOTH",
+"186 467 LINE",
+"125 467 LINE",
+"125 151 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"556 455 LINE",
+"556 507 LINE",
+"25 507 LINE",
+"25 455 LINE"
+);
+}
+);
+width = 576;
+}
+);
+unicode = 03C0;
+}

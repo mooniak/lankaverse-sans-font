@@ -1,0 +1,49 @@
+{
+glyphname = tmYU;
+layers = (
+{
+components = (
+{
+name = tmYA;
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"824 -145 LINE",
+"824 15 LINE",
+"766 15 LINE",
+"766 -145 LINE SMOOTH"
+);
+}
+);
+width = 919;
+},
+{
+components = (
+{
+name = tmYA;
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"943 -142 LINE",
+"943 61 LINE",
+"802 61 LINE",
+"802 -142 LINE"
+);
+}
+);
+width = 1021;
+}
+);
+leftMetricsKey = tmYA;
+rightMetricsKey = tmYA;
+}

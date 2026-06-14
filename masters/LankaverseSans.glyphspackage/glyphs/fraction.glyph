@@ -1,0 +1,36 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"360 711 LINE",
+"252 711 LINE",
+"-177 0 LINE",
+"-68 0 LINE"
+);
+}
+);
+width = 264;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"448 712 LINE",
+"386 712 LINE",
+"-70 0 LINE",
+"-9 0 LINE"
+);
+}
+);
+width = 324;
+}
+);
+unicode = 2044;
+}

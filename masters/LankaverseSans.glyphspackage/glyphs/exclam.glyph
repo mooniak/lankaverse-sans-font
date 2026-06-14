@@ -1,0 +1,70 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"214 236 LINE",
+"214 674 LINE",
+"75 674 LINE",
+"75 236 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"52 32 OFFCURVE",
+"92 -8 OFFCURVE",
+"143 -8 CURVE SMOOTH",
+"194 -8 OFFCURVE",
+"234 32 OFFCURVE",
+"234 83 CURVE SMOOTH",
+"234 134 OFFCURVE",
+"194 174 OFFCURVE",
+"143 174 CURVE SMOOTH",
+"92 174 OFFCURVE",
+"52 134 OFFCURVE",
+"52 83 CURVE SMOOTH"
+);
+}
+);
+width = 289;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"151 196 LINE",
+"151 674 LINE",
+"90 674 LINE",
+"90 196 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"69 13 OFFCURVE",
+"90 -8 OFFCURVE",
+"119 -8 CURVE SMOOTH",
+"148 -8 OFFCURVE",
+"171 13 OFFCURVE",
+"171 42 CURVE SMOOTH",
+"171 70 OFFCURVE",
+"148 93 OFFCURVE",
+"119 93 CURVE SMOOTH",
+"90 93 OFFCURVE",
+"69 70 OFFCURVE",
+"69 42 CURVE SMOOTH"
+);
+}
+);
+width = 241;
+}
+);
+unicode = 0021;
+}

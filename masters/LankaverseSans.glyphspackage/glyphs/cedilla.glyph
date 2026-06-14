@@ -1,0 +1,56 @@
+{
+glyphname = cedilla;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"339 -99 OFFCURVE",
+"334 -70 OFFCURVE",
+"322 -51 CURVE",
+"209 -51 LINE",
+"219 -64 OFFCURVE",
+"235 -87 OFFCURVE",
+"235 -113 CURVE SMOOTH",
+"235 -152 OFFCURVE",
+"209 -177 OFFCURVE",
+"160 -177 CURVE",
+"160 -268 LINE",
+"284 -268 OFFCURVE",
+"339 -203 OFFCURVE",
+"339 -125 CURVE SMOOTH"
+);
+}
+);
+width = 500;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"271 -99 OFFCURVE",
+"264 -67 OFFCURVE",
+"253 -51 CURVE",
+"192 -51 LINE",
+"209 -79 OFFCURVE",
+"215 -98 OFFCURVE",
+"215 -126 CURVE SMOOTH",
+"215 -168 OFFCURVE",
+"185 -193 OFFCURVE",
+"128 -199 CURVE",
+"128 -248 LINE",
+"224 -244 OFFCURVE",
+"271 -186 OFFCURVE",
+"271 -121 CURVE SMOOTH"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 00B8;
+}

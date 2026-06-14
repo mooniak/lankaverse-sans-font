@@ -1,0 +1,40 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"558 417 LINE",
+"45 417 LINE",
+"45 301 LINE",
+"438 301 LINE",
+"438 136 LINE",
+"558 136 LINE"
+);
+}
+);
+width = 603;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"500 412 LINE",
+"20 412 LINE",
+"20 353 LINE",
+"439 353 LINE",
+"439 166 LINE",
+"500 166 LINE"
+);
+}
+);
+width = 535;
+}
+);
+unicode = 00AC;
+}

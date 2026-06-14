@@ -1,0 +1,72 @@
+{
+glyphname = daggerdbl;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"359 0 LINE",
+"359 674 LINE",
+"229 674 LINE",
+"229 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"544 405 LINE",
+"544 523 LINE",
+"45 523 LINE",
+"45 405 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"544 151 LINE",
+"544 269 LINE",
+"45 269 LINE",
+"45 151 LINE"
+);
+}
+);
+width = 589;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"281 0 LINE",
+"281 674 LINE",
+"224 674 LINE",
+"224 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"469 442 LINE",
+"469 498 LINE",
+"45 498 LINE",
+"45 442 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"469 189 LINE",
+"469 245 LINE",
+"45 245 LINE",
+"45 189 LINE"
+);
+}
+);
+width = 514;
+}
+);
+unicode = 2021;
+}

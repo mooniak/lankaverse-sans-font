@@ -1,0 +1,103 @@
+{
+glyphname = turkishlira;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"224 0 LINE",
+"271 13 LINE",
+"271 655 LINE",
+"125 655 LINE",
+"125 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 0 LINE",
+"459 0 OFFCURVE",
+"581 184 OFFCURVE",
+"581 363 CURVE",
+"439 363 LINE",
+"439 234 OFFCURVE",
+"346 117 OFFCURVE",
+"199 117 CURVE SMOOTH",
+"174 117 LINE",
+"174 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 437 LINE",
+"54 283 LINE",
+"54 172 LINE",
+"360 326 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 637 LINE",
+"54 483 LINE",
+"54 372 LINE",
+"360 526 LINE"
+);
+}
+);
+width = 588;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"204 0 LINE",
+"221 5 LINE",
+"221 655 LINE",
+"160 655 LINE",
+"160 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"204 0 LINE SMOOTH",
+"386 0 OFFCURVE",
+"524 145 OFFCURVE",
+"524 363 CURVE",
+"465 363 LINE",
+"465 202 OFFCURVE",
+"362 56 OFFCURVE",
+"207 56 CURVE SMOOTH",
+"190 56 LINE",
+"190 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"337 596 LINE",
+"65 453 LINE",
+"65 392 LINE",
+"337 535 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"337 451 LINE",
+"65 308 LINE",
+"65 247 LINE",
+"337 390 LINE"
+);
+}
+);
+width = 578;
+}
+);
+}

@@ -1,0 +1,36 @@
+{
+glyphname = edieresis;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = dieresis;
+transform = "{1, 0, 0, 1, 34, -67}";
+},
+{
+alignment = -1;
+name = e;
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 533;
+},
+{
+components = (
+{
+alignment = -1;
+name = dieresis;
+transform = "{1, 0, 0, 1, 81, -89}";
+},
+{
+alignment = -1;
+name = e;
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 519;
+}
+);
+unicode = 00EB;
+}

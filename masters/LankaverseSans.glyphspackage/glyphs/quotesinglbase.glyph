@@ -1,0 +1,36 @@
+{
+glyphname = quotesinglbase;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"119 -127 LINE",
+"255 134 LINE",
+"94 134 LINE",
+"-7 -127 LINE"
+);
+}
+);
+width = 267;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"49 -122 LINE",
+"164 92 LINE",
+"83 92 LINE",
+"4 -122 LINE"
+);
+}
+);
+width = 158;
+}
+);
+unicode = 201A;
+}

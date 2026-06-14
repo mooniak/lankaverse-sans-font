@@ -1,0 +1,54 @@
+{
+glyphname = lcommaaccent;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"211 0 LINE",
+"211 707 LINE",
+"65 707 LINE",
+"65 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"95 -262 LINE",
+"211 -51 LINE",
+"60 -51 LINE",
+"-11 -262 LINE"
+);
+}
+);
+width = 276;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"141 0 LINE",
+"141 707 LINE",
+"80 707 LINE",
+"80 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 -238 LINE",
+"150 -51 LINE",
+"74 -51 LINE",
+"-14 -238 LINE"
+);
+}
+);
+width = 221;
+}
+);
+unicode = 013C;
+}

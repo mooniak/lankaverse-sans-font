@@ -1,0 +1,36 @@
+{
+glyphname = acute;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"255 621 LINE",
+"366 798 LINE",
+"220 798 LINE",
+"134 621 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"165 648 LINE",
+"293 798 LINE",
+"212 798 LINE",
+"110 648 LINE"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 00B4;
+}

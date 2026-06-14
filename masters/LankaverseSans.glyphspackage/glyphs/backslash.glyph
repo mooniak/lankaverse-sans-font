@@ -1,0 +1,36 @@
+{
+glyphname = backslash;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"315 -103 LINE",
+"-45 707 LINE",
+"107 707 LINE",
+"466 -103 LINE"
+);
+}
+);
+width = 464;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"336 -103 LINE",
+"-30 707 LINE",
+"32 707 LINE",
+"398 -103 LINE"
+);
+}
+);
+width = 386;
+}
+);
+unicode = 005C;
+}

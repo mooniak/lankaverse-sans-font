@@ -1,0 +1,36 @@
+{
+glyphname = quoteleft;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"163 694 LINE",
+"27 433 LINE",
+"188 433 LINE",
+"289 694 LINE"
+);
+}
+);
+width = 267;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"122 695 LINE",
+"7 481 LINE",
+"88 481 LINE",
+"167 695 LINE"
+);
+}
+);
+width = 157;
+}
+);
+unicode = 2018;
+}

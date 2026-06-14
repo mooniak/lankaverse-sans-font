@@ -1,0 +1,36 @@
+{
+glyphname = Sacute;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = S;
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, 68, 100}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 514;
+},
+{
+components = (
+{
+alignment = -1;
+name = S;
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, 149, 80}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 527;
+}
+);
+unicode = 015A;
+}

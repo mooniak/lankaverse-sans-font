@@ -1,0 +1,36 @@
+{
+glyphname = Acircumflex;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, 96, 100}";
+},
+{
+alignment = -1;
+name = A;
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 690;
+},
+{
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, 122, 81}";
+},
+{
+alignment = -1;
+name = A;
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 637;
+}
+);
+unicode = 00C2;
+}

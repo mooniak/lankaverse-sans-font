@@ -1,0 +1,69 @@
+{
+glyphname = tmTTA;
+layers = (
+{
+anchors = (
+{
+name = abvm;
+position = "{429, 543}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+name = Light;
+paths = (
+{
+closed = 1;
+nodes = (
+"762 0 LINE",
+"762 55 LINE",
+"157 55 LINE",
+"157 543 LINE",
+"95 543 LINE",
+"95 0 LINE"
+);
+}
+);
+width = 782;
+},
+{
+anchors = (
+{
+name = abvm;
+position = "{439, 576}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"822 0 LINE",
+"822 116 LINE",
+"217 116 LINE",
+"217 576 LINE",
+"75 576 LINE",
+"75 0 LINE"
+);
+}
+);
+};
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"802 0 LINE",
+"802 116 LINE",
+"217 116 LINE",
+"217 576 LINE",
+"75 576 LINE",
+"75 0 LINE"
+);
+}
+);
+width = 822;
+}
+);
+unicode = 0B9F;
+}

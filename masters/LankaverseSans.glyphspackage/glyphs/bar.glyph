@@ -1,0 +1,36 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"210 -194 LINE",
+"210 695 LINE",
+"70 695 LINE",
+"70 -194 LINE"
+);
+}
+);
+width = 280;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"134 -194 LINE",
+"134 695 LINE",
+"80 695 LINE",
+"80 -194 LINE"
+);
+}
+);
+width = 214;
+}
+);
+unicode = 007C;
+}

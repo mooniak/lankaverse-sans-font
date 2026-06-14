@@ -1,0 +1,36 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"134 798 LINE",
+"245 621 LINE",
+"366 621 LINE",
+"280 798 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"110 798 LINE",
+"238 648 LINE",
+"293 648 LINE",
+"191 798 LINE"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 0060;
+}

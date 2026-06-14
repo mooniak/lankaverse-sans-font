@@ -1,0 +1,36 @@
+{
+glyphname = macronmod;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"428 750 LINE",
+"72 750 LINE",
+"72 651 LINE",
+"428 651 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"331 749 LINE",
+"68 749 LINE",
+"68 704 LINE",
+"331 704 LINE"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 02C9;
+}

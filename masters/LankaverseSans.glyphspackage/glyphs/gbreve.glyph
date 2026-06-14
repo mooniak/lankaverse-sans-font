@@ -1,0 +1,36 @@
+{
+glyphname = gbreve;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = g;
+},
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 61, -67}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 585;
+},
+{
+components = (
+{
+alignment = -1;
+name = g;
+},
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 86, -86}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 539;
+}
+);
+unicode = 011F;
+}

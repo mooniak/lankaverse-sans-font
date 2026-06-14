@@ -1,0 +1,70 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"214 273 LINE",
+"214 -165 LINE",
+"75 -165 LINE",
+"75 273 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"52 477 OFFCURVE",
+"92 517 OFFCURVE",
+"143 517 CURVE SMOOTH",
+"194 517 OFFCURVE",
+"234 477 OFFCURVE",
+"234 426 CURVE SMOOTH",
+"234 375 OFFCURVE",
+"194 335 OFFCURVE",
+"143 335 CURVE SMOOTH",
+"92 335 OFFCURVE",
+"52 375 OFFCURVE",
+"52 426 CURVE SMOOTH"
+);
+}
+);
+width = 289;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"151 313 LINE",
+"151 -165 LINE",
+"90 -165 LINE",
+"90 313 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"69 496 OFFCURVE",
+"90 517 OFFCURVE",
+"119 517 CURVE SMOOTH",
+"148 517 OFFCURVE",
+"171 496 OFFCURVE",
+"171 467 CURVE SMOOTH",
+"171 439 OFFCURVE",
+"148 416 OFFCURVE",
+"119 416 CURVE SMOOTH",
+"90 416 OFFCURVE",
+"69 439 OFFCURVE",
+"69 467 CURVE SMOOTH"
+);
+}
+);
+width = 241;
+}
+);
+unicode = 00A1;
+}

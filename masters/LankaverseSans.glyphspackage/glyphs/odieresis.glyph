@@ -1,0 +1,36 @@
+{
+glyphname = odieresis;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = dieresis;
+transform = "{1, 0, 0, 1, 45, -66}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 567;
+},
+{
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = dieresis;
+transform = "{1, 0, 0, 1, 88, -91}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 561;
+}
+);
+unicode = 00F6;
+}

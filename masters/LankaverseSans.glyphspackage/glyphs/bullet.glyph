@@ -1,0 +1,52 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 281 OFFCURVE",
+"136 223 OFFCURVE",
+"213 223 CURVE",
+"287 223 OFFCURVE",
+"345 281 OFFCURVE",
+"345 356 CURVE",
+"345 431 OFFCURVE",
+"287 489 OFFCURVE",
+"212 489 CURVE",
+"136 489 OFFCURVE",
+"80 431 OFFCURVE",
+"80 356 CURVE"
+);
+}
+);
+width = 425;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"95 281 OFFCURVE",
+"151 223 OFFCURVE",
+"228 223 CURVE",
+"302 223 OFFCURVE",
+"360 281 OFFCURVE",
+"360 356 CURVE",
+"360 431 OFFCURVE",
+"302 489 OFFCURVE",
+"227 489 CURVE",
+"151 489 OFFCURVE",
+"95 431 OFFCURVE",
+"95 356 CURVE"
+);
+}
+);
+width = 455;
+}
+);
+unicode = 2022;
+}

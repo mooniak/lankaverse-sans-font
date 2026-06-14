@@ -1,0 +1,36 @@
+{
+glyphname = Imacron;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = I;
+},
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -98, 109}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 304;
+},
+{
+components = (
+{
+alignment = -1;
+name = I;
+},
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -83, 77}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 232;
+}
+);
+unicode = 012A;
+}

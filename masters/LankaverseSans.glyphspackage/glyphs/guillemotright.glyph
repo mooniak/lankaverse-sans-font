@@ -1,0 +1,90 @@
+{
+glyphname = guillemotright;
+layers = (
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"413 415 LINE",
+"261 415 LINE",
+"407 253 LINE",
+"565 253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"261 91 LINE",
+"413 91 LINE",
+"565 253 LINE",
+"407 253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"193 415 LINE",
+"41 415 LINE",
+"187 253 LINE",
+"345 253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"41 91 LINE",
+"193 91 LINE",
+"345 253 LINE",
+"187 253 LINE"
+);
+}
+);
+width = 591;
+},
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"273 415 LINE",
+"203 415 LINE",
+"350 253 LINE",
+"423 253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"203 91 LINE",
+"273 91 LINE",
+"423 253 LINE",
+"350 253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 415 LINE",
+"26 415 LINE",
+"173 253 LINE",
+"246 253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"26 91 LINE",
+"96 91 LINE",
+"246 253 LINE",
+"173 253 LINE"
+);
+}
+);
+width = 453;
+}
+);
+unicode = 00BB;
+}

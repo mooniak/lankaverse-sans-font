@@ -1,0 +1,36 @@
+{
+glyphname = Uogonek;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = U;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 87, -6}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 668;
+},
+{
+components = (
+{
+alignment = -1;
+name = U;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 140, -4}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 639;
+}
+);
+unicode = 0172;
+}
