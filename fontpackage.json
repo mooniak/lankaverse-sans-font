@@ -1,14 +1,16 @@
 {
-  "name": "Hind Colombo",
+  "name": "Lankaverse Sans",
   "id": "lankaverse-sans",
   "type": "family",
   "designer": [
     "Mooniak"
   ],
   "scripts": [
-    "Sinh"
+    "Sinh",
+    "Latn",
+    "Taml"
   ],
-  "description": "A Sinhala sans-serif typeface based on the Hind type system, adapted for Sinhala script.",
+  "description": "A Trilingula font for the fututre of Sri Lanka. Lankaverse Sans is a sans-serif typeface designed to support the Sinhala script, with a focus on readability and versatility. It is suitable for a wide range of applications, including body text, headlines, and user interfaces.",
   "license": "OFL-1.1",
   "channels": [
     "release",
@@ -63,22 +65,25 @@
     ],
     "related_fonts": []
   },
-  "display_texts": {
-    "en_US": "",
-    "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
-    "ta_LK": ""
-  },
-  "display_images": {
-    "banner": "",
-    "thumbnail": "",
-    "small": "",
-    "medium": "",
-    "large": ""
-  },
-  "links": {
-    "font_in_use": "",
-    "googlefonts": "",
-    "fontlibrary_org": "",
-    "typekit": ""
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "",
+      "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
+      "ta_LK": ""
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
   }
 }
