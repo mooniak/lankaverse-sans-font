@@ -1,0 +1,32 @@
+{
+glyphname = "uu-sinh";
+layers = (
+{
+components = (
+{
+name = "u-sinh";
+},
+{
+name = "vocaliclsign-sinh";
+transform = "{1, 0, 0, 1, 673, 0}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 1175;
+},
+{
+components = (
+{
+name = "u-sinh";
+},
+{
+name = "vocaliclsign-sinh";
+transform = "{1, 0, 0, 1, 719, 0}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 1314;
+}
+);
+unicode = 0D8C;
+}

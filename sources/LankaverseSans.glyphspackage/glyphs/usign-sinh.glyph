@@ -1,0 +1,65 @@
+{
+glyphname = "usign-sinh";
+layers = (
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"-44 -270 LINE",
+"-523 -270 LINE",
+"-606 -270 OFFCURVE",
+"-660 -223 OFFCURVE",
+"-660 -147 CURVE SMOOTH",
+"-660 -123 OFFCURVE",
+"-658 -110 OFFCURVE",
+"-654 -90 CURVE",
+"-595 -90 LINE",
+"-598 -104 OFFCURVE",
+"-600 -124 OFFCURVE",
+"-600 -138 CURVE SMOOTH",
+"-600 -187 OFFCURVE",
+"-571 -215 OFFCURVE",
+"-520 -215 CURVE",
+"-103 -215 LINE",
+"-103 200 LINE",
+"-44 200 LINE"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"-28 -320 LINE",
+"-628 -320 LINE",
+"-732 -320 OFFCURVE",
+"-772 -256 OFFCURVE",
+"-772 -175 CURVE SMOOTH",
+"-772 -151 OFFCURVE",
+"-768 -126 OFFCURVE",
+"-762 -100 CURVE",
+"-640 -100 LINE",
+"-643 -114 OFFCURVE",
+"-645 -139 OFFCURVE",
+"-645 -153 CURVE SMOOTH",
+"-645 -188 OFFCURVE",
+"-636 -209 OFFCURVE",
+"-595 -209 CURVE",
+"-155 -208 LINE",
+"-155 220 LINE",
+"-28 220 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 0DD4;
+subCategory = Spacing;
+}

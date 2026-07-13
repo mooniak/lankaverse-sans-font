@@ -1,0 +1,54 @@
+{
+color = 11;
+glyphname = "rU-sinh";
+layers = (
+{
+components = (
+{
+name = "ra-sinh";
+},
+{
+name = "aesign-sinh";
+transform = "{1, 0, 0, 1, 648, 0}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"728 382 LINE",
+"728 437 LINE",
+"568 437 LINE",
+"568 382 LINE"
+);
+}
+);
+width = 960;
+},
+{
+components = (
+{
+name = "ra-sinh";
+},
+{
+name = "aesign-sinh";
+transform = "{1, 0, 0, 1, 706, 0}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"809 325 LINE",
+"809 437 LINE",
+"659 437 LINE",
+"659 325 LINE"
+);
+}
+);
+width = 1046;
+}
+);
+}

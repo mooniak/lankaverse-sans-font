@@ -1,0 +1,32 @@
+{
+glyphname = "aa-sinh";
+layers = (
+{
+components = (
+{
+name = "a-sinh";
+},
+{
+name = "aasign-sinh";
+transform = "{1, 0, 0, 1, 700, 0}";
+}
+);
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+width = 1101;
+},
+{
+components = (
+{
+name = "a-sinh";
+},
+{
+name = "aasign-sinh";
+transform = "{1, 0, 0, 1, 779, 0}";
+}
+);
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+width = 1190;
+}
+);
+unicode = 0D86;
+}

@@ -1,0 +1,64 @@
+{
+color = 9;
+glyphname = "usign-sinh.02";
+layers = (
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"-81 -270 LINE",
+"-523 -270 LINE",
+"-606 -270 OFFCURVE",
+"-660 -223 OFFCURVE",
+"-660 -147 CURVE SMOOTH",
+"-660 -123 OFFCURVE",
+"-658 -110 OFFCURVE",
+"-654 -90 CURVE",
+"-595 -90 LINE",
+"-598 -104 OFFCURVE",
+"-600 -124 OFFCURVE",
+"-600 -138 CURVE SMOOTH",
+"-600 -187 OFFCURVE",
+"-571 -215 OFFCURVE",
+"-520 -215 CURVE",
+"-140 -215 LINE",
+"-140 190 LINE",
+"-81 190 LINE"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"-58 -320 LINE",
+"-598 -320 LINE",
+"-702 -320 OFFCURVE",
+"-742 -256 OFFCURVE",
+"-742 -175 CURVE SMOOTH",
+"-742 -151 OFFCURVE",
+"-738 -126 OFFCURVE",
+"-732 -100 CURVE",
+"-610 -100 LINE",
+"-613 -114 OFFCURVE",
+"-615 -139 OFFCURVE",
+"-615 -153 CURVE SMOOTH",
+"-615 -188 OFFCURVE",
+"-606 -209 OFFCURVE",
+"-565 -209 CURVE",
+"-185 -208 LINE",
+"-185 230 LINE",
+"-58 230 LINE"
+);
+}
+);
+width = 0;
+}
+);
+}

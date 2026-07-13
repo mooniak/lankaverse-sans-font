@@ -1,0 +1,57 @@
+{
+glyphname = "isign-sinh";
+layers = (
+{
+layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
+paths = (
+{
+closed = 1;
+nodes = (
+"-624 598 LINE",
+"-624 711 OFFCURVE",
+"-510 761 OFFCURVE",
+"-396 761 CURVE SMOOTH",
+"-273 761 OFFCURVE",
+"-157 711 OFFCURVE",
+"-157 598 CURVE",
+"-217 598 LINE",
+"-217 672 OFFCURVE",
+"-297 706 OFFCURVE",
+"-396 706 CURVE SMOOTH",
+"-489 706 OFFCURVE",
+"-564 672 OFFCURVE",
+"-564 598 CURVE"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
+paths = (
+{
+closed = 1;
+nodes = (
+"-704 619 LINE",
+"-704 757 OFFCURVE",
+"-595 839 OFFCURVE",
+"-420 839 CURVE SMOOTH",
+"-240 839 OFFCURVE",
+"-127 759 OFFCURVE",
+"-127 619 CURVE",
+"-272 619 LINE",
+"-272 693 OFFCURVE",
+"-328 727 OFFCURVE",
+"-420 727 CURVE SMOOTH",
+"-500 727 OFFCURVE",
+"-559 693 OFFCURVE",
+"-559 619 CURVE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 0DD2;
+subCategory = Spacing;
+}
