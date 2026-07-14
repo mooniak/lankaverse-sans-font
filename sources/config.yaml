@@ -1,0 +1,9 @@
+sources:
+  - LankaverseSans.glyphspackage
+familyName: "Lankaverse Sans"
+outputDir: "../fonts"
+buildVariable: true
+buildStatic: false
+buildTTF: true
+buildOTF: false
+buildWebfont: true
