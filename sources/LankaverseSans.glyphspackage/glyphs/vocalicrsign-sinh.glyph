@@ -99,5 +99,6 @@ width = 492;
 }
 );
 unicode = 0DD8;
+category = Mark;
 subCategory = Spacing;
 }

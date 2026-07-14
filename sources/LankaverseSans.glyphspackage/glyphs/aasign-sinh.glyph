@@ -77,5 +77,6 @@ width = 411;
 }
 );
 unicode = 0DCF;
+category = Mark;
 subCategory = Spacing;
 }

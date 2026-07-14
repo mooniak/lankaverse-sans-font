@@ -55,7 +55,6 @@ name = tmMA;
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-name = Light;
 paths = (
 {
 closed = 1;
@@ -153,7 +152,6 @@ name = tmMA;
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
 leftMetricsKey = "=tmMa";
 rightMetricsKey = "=tmMa";
-name = Bold;
 paths = (
 {
 closed = 1;

@@ -147,5 +147,6 @@ width = 646;
 }
 );
 unicode = 0DD9;
+category = Mark;
 subCategory = Spacing;
 }

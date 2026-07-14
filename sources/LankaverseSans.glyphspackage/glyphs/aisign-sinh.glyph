@@ -29,5 +29,6 @@ width = 1292;
 }
 );
 unicode = 0DDB;
+category = Mark;
 subCategory = Spacing;
 }

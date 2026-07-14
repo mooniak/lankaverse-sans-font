@@ -21,8 +21,10 @@ V,
 W,
 X,
 "/Zdotaccent",
-"/snA",
+"/a-sinh",
 "/tmOO",
-"/snA"
+"/a-sinh",
+"/nbspace 
+"
 );
 }
