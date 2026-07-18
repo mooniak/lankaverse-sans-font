@@ -13,9 +13,9 @@
   "description": "A Trilingula font for the fututre of Sri Lanka. Lankaverse Sans is a sans-serif typeface designed to support the Sinhala script, with a focus on readability and versatility. It is suitable for a wide range of applications, including body text, headlines, and user interfaces.",
   "license": "OFL-1.1",
   "channels": [
-    "release",
+    "canary",
     "dev",
-    "nightly"
+    "release"
   ],
   "versions_provider": "tags",
   "repository": {
