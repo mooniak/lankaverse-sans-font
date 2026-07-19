@@ -1,7 +1,7 @@
 # buildVariable: Build a variable font from a source file
 rule buildVariable
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner fontmake --output-path $out -o variable $
       $fontmake_type $in $args $stamp
   description = buildVariable
@@ -9,7 +9,7 @@ rule buildVariable
 # fix: Run gftools-fix
 rule fix
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
   description = fix
 
@@ -23,7 +23,7 @@ rule buildSTAT-postprocess
 # compress: Compress to webfont
 rule compress
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $
       $in $stamp
   description = compress
@@ -31,12 +31,12 @@ rule compress
 # copy: Copy a file
 rule copy
   command = $
-      /Users/pathumego/src/github/mooniak/font-repos/font-directory/.venv/bin/python3.12 $
+      /Users/pathumego/src/github/mooniak/font-repos/mooniak-font-tools/.venv/bin/python3.12 $
       -m gftools.builder.jobrunner cp $in $out $stamp
   description = copy
 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0ao3tn73
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0ao3tn73: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsagvbsyr
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsagvbsyr: $
     buildVariable LankaverseSans.glyphspackage
   operation = buildVariable
   args = --filter ...  --filter FlattenComponentsFilter --filter $
@@ -45,11 +45,11 @@ build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0ao3tn73: $
   fontmake_args =  --verbose WARNING 
 # Postprocessing  with BuildSTAT
 build $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpe5qce1gg.buildStatstamp: $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpffw0hfge.buildStatstamp: $
     buildSTAT-postprocess ../fonts/variable/LankaverseSans[wght].ttf | $
     ../fonts/variable/LankaverseSans[wght].ttf
   stamp =  && touch $
-      /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpe5qce1gg.buildStatstamp
+      /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpffw0hfge.buildStatstamp
   postprocess = buildStat
 # Generating ../fonts/webfonts/LankaverseSans[wght].woff2
 build ../fonts/webfonts/LankaverseSans[wght].woff2: compress $
@@ -57,9 +57,9 @@ build ../fonts/webfonts/LankaverseSans[wght].woff2: compress $
   operation = compress
 # Generating ../fonts/variable/LankaverseSans[wght].ttf
 build ../fonts/variable/LankaverseSans[wght].ttf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp0ao3tn73
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpsagvbsyr
   operation = fix
   args = 
 default $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpe5qce1gg.buildStatstamp $
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpffw0hfge.buildStatstamp $
     ../fonts/webfonts/LankaverseSans[wght].woff2
