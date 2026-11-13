@@ -1,0 +1,125 @@
+[
+ {
+  "family": "Lankaverse Sans",
+  "commit": "3502613b5f15bed4fe4fa1f2c7d07cde55b9fb88",
+  "commit_short": "3502613",
+  "version": "0.500",
+  "generated_at": "2026-11-13T07:54:09Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 47,
+   "counts": {
+    "FAIL": 12,
+    "WARN": 97,
+    "SKIP": 65,
+    "INFO": 16,
+    "PASS": 109
+   },
+   "total_checks": 299
+  },
+  "run_url": "https://github.com/mooniak/lankaverse-sans-font/actions/runs/43388952792",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/lankaverse-sans-font"
+ },
+ {
+  "family": "Lankaverse Sans",
+  "commit": "fb6f6397a8c445f14fa52b04b47f722fbde47a14",
+  "commit_short": "fb6f639",
+  "version": "0.500",
+  "generated_at": "2026-11-13T07:49:10Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 47,
+   "counts": {
+    "FAIL": 12,
+    "WARN": 97,
+    "SKIP": 65,
+    "INFO": 15,
+    "PASS": 109
+   },
+   "total_checks": 298
+  },
+  "run_url": "https://github.com/mooniak/lankaverse-sans-font/actions/runs/43388384025",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/lankaverse-sans-font"
+ },
+ {
+  "family": "Lankaverse Sans",
+  "commit": "9ad2961e982b5e94c73f6df7bb0b0c8ba71a1233",
+  "commit_short": "9ad2961",
+  "version": "1.000",
+  "generated_at": "2026-11-12T11:03:43Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 47,
+   "counts": {
+    "FAIL": 17,
+    "WARN": 98,
+    "SKIP": 65,
+    "INFO": 9,
+    "PASS": 108
+   },
+   "total_checks": 297
+  },
+  "run_url": "https://github.com/mooniak/lankaverse-sans-font/actions/runs/43205696647",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/lankaverse-sans-font"
+ }
+]
