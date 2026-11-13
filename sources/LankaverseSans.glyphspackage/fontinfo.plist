@@ -1,5 +1,6 @@
 {
 .appVersion = "3532";
+copyright = "Copyright 2026 The Lankaverse Sans Project Authors (https://github.com/mooniak/lankaverse-sans-font).";
 customParameters = (
 {
 name = glyphOrder;
@@ -459,8 +460,8 @@ Tag = wght;
 }
 );
 date = "2026-11-13 07:43:57 +0000";
-designer = "Jyotish Sonowal, Manushi Parikh, Satya Rajpurohit";
-designerURL = "http://www.mooniak.com/";
+designer = "Jyotish Sonowal, Manushi Parikh, Satya Rajpurohit (Indian Type Foundry); Pathum Egodawatta (Lankaverse Sans adaptation)";
+designerURL = "https://pathumego.com/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Lankaverse Sans";

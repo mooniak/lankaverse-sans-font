@@ -1,4 +1,12 @@
-Copyright 2015 The Lankaverse Sans Project Authors (https://github.com/mooniak/lankaverse-sans-font)
+Copyright 2015 Indian Type Foundry (info@indiantypefoundry.com), with Reserved Font Name "Hind".
+Copyright 2015 Indian Type Foundry (info@indiantypefoundry.com), with Reserved Font Name "Hind Madurai".
+Copyright 2016 Indian Type Foundry (info@indiantypefoundry.com), with Reserved Font Name "Hind Colombo".
+Copyright 2026 The Lankaverse Sans Project Authors (https://github.com/mooniak/lankaverse-sans-font)
+
+Lankaverse Sans is a derivative work based on Hind, Hind Madurai, and
+Hind Colombo, originally designed by Indian Type Foundry (Jyotish Sonowal,
+Manushi Parikh, Satya Rajpurohit, and other ITF contributors) and released
+under the SIL Open Font License. See AUTHORS.txt for full attribution.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

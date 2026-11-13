@@ -1,0 +1,20 @@
+# Lankaverse Sans — Authors
+
+Lankaverse Sans is a derivative work based on the following typefaces by
+the Indian Type Foundry, each released under the SIL Open Font License:
+
+- Hind
+- Hind Madurai
+- Hind Colombo
+
+Original design and engineering (Hind / Hind Madurai / Hind Colombo):
+- Jyotish Sonowal
+- Manushi Parikh
+- Satya Rajpurohit
+- and other contributors at Indian Type Foundry (https://www.indiantypefoundry.com/)
+
+Lankaverse Sans adaptation, Sinhala and Tamil development, and ongoing
+maintenance:
+- Pathum Egodawatta (https://pathumego.com/) — Lankaverse Media project, Mooniak
+
+For the full license text and copyright notices, see OFL.txt.
