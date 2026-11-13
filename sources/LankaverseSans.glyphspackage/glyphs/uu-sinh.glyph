@@ -12,7 +12,7 @@ transform = "{1, 0, 0, 1, 673, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 1175;
+width = 1170;
 },
 {
 components = (
@@ -28,5 +28,7 @@ layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
 width = 1314;
 }
 );
+leftMetricsKey = "pa-sinh";
+rightMetricsKey = "da-sinh";
 unicode = 0D8C;
 }

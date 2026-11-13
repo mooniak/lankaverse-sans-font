@@ -213,7 +213,9 @@ nodes = (
 );
 }
 );
-width = 788;
+width = 763;
 }
 );
+leftMetricsKey = "nda-sinh";
+rightMetricsKey = "nda-sinh";
 }

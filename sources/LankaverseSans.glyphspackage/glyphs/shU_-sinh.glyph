@@ -5,6 +5,7 @@ layers = (
 components = (
 {
 name = "sha-sinh";
+transform = "{1, 0, 0, 1, 5, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -12,30 +13,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"693 20 LINE",
-"645 7 OFFCURVE",
-"594 -36 OFFCURVE",
-"594 -109 CURVE SMOOTH",
-"594 -186 OFFCURVE",
-"653 -234 OFFCURVE",
-"741 -234 CURVE SMOOTH",
-"757 -234 OFFCURVE",
-"772 -233 OFFCURVE",
-"788 -229 CURVE",
-"788 -175 LINE",
-"775 -177 OFFCURVE",
-"755 -178 OFFCURVE",
-"744 -178 CURVE SMOOTH",
-"693 -178 OFFCURVE",
-"654 -156 OFFCURVE",
-"654 -106 CURVE SMOOTH",
-"654 -54 OFFCURVE",
-"696 -15 OFFCURVE",
-"744 0 CURVE"
+"698 20 LINE",
+"650 7 OFFCURVE",
+"599 -36 OFFCURVE",
+"599 -109 CURVE SMOOTH",
+"599 -186 OFFCURVE",
+"658 -234 OFFCURVE",
+"746 -234 CURVE SMOOTH",
+"762 -234 OFFCURVE",
+"777 -233 OFFCURVE",
+"793 -229 CURVE",
+"793 -175 LINE",
+"780 -177 OFFCURVE",
+"760 -178 OFFCURVE",
+"749 -178 CURVE SMOOTH",
+"698 -178 OFFCURVE",
+"659 -156 OFFCURVE",
+"659 -106 CURVE SMOOTH",
+"659 -54 OFFCURVE",
+"701 -15 OFFCURVE",
+"749 0 CURVE"
 );
 }
 );
-width = 898;
+width = 893;
 },
 {
 components = (
@@ -71,7 +72,9 @@ nodes = (
 );
 }
 );
-width = 1021;
+width = 1026;
 }
 );
+leftMetricsKey = "ga-sinh";
+rightMetricsKey = "da-sinh";
 }

@@ -150,6 +150,8 @@ nodes = (
 width = 416;
 }
 );
+leftMetricsKey = "anusvaraya-sinh";
+rightMetricsKey = "anusvaraya-sinh";
 category = Mark;
 subCategory = Spacing;
 }

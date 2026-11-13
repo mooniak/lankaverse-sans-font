@@ -225,4 +225,6 @@ nodes = (
 width = 822;
 }
 );
+leftMetricsKey = "la-sinh";
+rightMetricsKey = "la-sinh";
 }

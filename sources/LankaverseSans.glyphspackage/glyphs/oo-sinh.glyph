@@ -268,5 +268,7 @@ nodes = (
 width = 959;
 }
 );
+leftMetricsKey = "o-sinh";
+rightMetricsKey = "ga-sinh";
 unicode = 0D95;
 }

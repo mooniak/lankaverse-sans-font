@@ -309,7 +309,9 @@ nodes = (
 );
 }
 );
-width = 1394;
+width = 1384;
 }
 );
+leftMetricsKey = "jnya-sinh";
+rightMetricsKey = "jnya-sinh";
 }

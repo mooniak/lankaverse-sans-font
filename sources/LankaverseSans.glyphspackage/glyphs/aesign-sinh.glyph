@@ -34,7 +34,7 @@ nodes = (
 );
 }
 );
-width = 312;
+width = 332;
 },
 {
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
@@ -68,9 +68,10 @@ nodes = (
 );
 }
 );
-width = 340;
+width = 370;
 }
 );
+rightMetricsKey = "da-sinh";
 unicode = 0DD0;
 category = Mark;
 subCategory = Spacing;

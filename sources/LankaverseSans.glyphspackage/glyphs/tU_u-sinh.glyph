@@ -50,7 +50,7 @@ nodes = (
 );
 }
 );
-width = 906;
+width = 904;
 },
 {
 components = (
@@ -101,7 +101,9 @@ nodes = (
 );
 }
 );
-width = 1121;
+width = 999;
 }
 );
+leftMetricsKey = "ta-sinh";
+rightMetricsKey = "da-sinh";
 }

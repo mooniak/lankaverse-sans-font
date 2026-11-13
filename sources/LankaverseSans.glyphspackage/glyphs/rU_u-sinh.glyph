@@ -6,10 +6,11 @@ layers = (
 components = (
 {
 name = "ra-sinh";
+transform = "{1, 0, 0, 1, -15, 0}";
 },
 {
 name = "aaesign-sinh";
-transform = "{1, 0, 0, 1, 638, 0}";
+transform = "{1, 0, 0, 1, 623, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -17,23 +18,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"728 382 LINE",
-"728 437 LINE",
-"568 437 LINE",
-"568 382 LINE"
+"713 382 LINE",
+"713 437 LINE",
+"553 437 LINE",
+"553 382 LINE"
 );
 }
 );
-width = 943;
+width = 948;
 },
 {
 components = (
 {
 name = "ra-sinh";
+transform = "{1, 0, 0, 1, -7, 0}";
 },
 {
 name = "aaesign-sinh";
-transform = "{1, 0, 0, 1, 716, 0}";
+transform = "{1, 0, 0, 1, 709, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
@@ -41,14 +43,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"809 335 LINE",
-"809 437 LINE",
-"659 437 LINE",
-"659 335 LINE"
+"802 335 LINE",
+"802 437 LINE",
+"652 437 LINE",
+"652 335 LINE"
 );
 }
 );
-width = 1056;
+width = 1079;
 }
 );
+leftMetricsKey = "ya-sinh";
+rightMetricsKey = "da-sinh";
 }

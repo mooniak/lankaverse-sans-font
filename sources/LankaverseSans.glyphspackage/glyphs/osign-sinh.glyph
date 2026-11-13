@@ -218,7 +218,7 @@ nodes = (
 );
 }
 );
-width = 1631;
+width = 1636;
 },
 {
 components = (
@@ -437,9 +437,11 @@ nodes = (
 );
 }
 );
-width = 1631;
+width = 1626;
 }
 );
+leftMetricsKey = "ga-sinh";
+rightMetricsKey = "ga-sinh";
 unicode = 0DDC;
 category = Mark;
 subCategory = Spacing;
