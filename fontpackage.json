@@ -3,7 +3,8 @@
   "id": "lankaverse-sans",
   "type": "family",
   "designer": [
-    "Mooniak"
+    "Pathum Egodawatta",
+    "Jyotish Sonowal"
   ],
   "scripts": [
     "Sinh",
@@ -37,6 +38,11 @@
       "name": "Pathum Egodawatta",
       "email": "pathum@mooniak.com",
       "url": "https://pathumego.com/"
+    },
+    {
+      "name": "Jyotish Sonowal",
+      "email": "",
+      "url": ""
     }
   ],
   "maintenance": {
