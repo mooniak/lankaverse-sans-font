@@ -5,19 +5,19 @@ layers = (
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 19, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 340, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 660, 0}";
+transform = "{1, 0, 0, 1, 642, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 938;
+width = 912;
 },
 {
 components = (
@@ -27,15 +27,15 @@ transform = "{1, 0, 0, 1, 10, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 260, 0}";
+transform = "{1, 0, 0, 1, 253, 0}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 510, 0}";
+transform = "{1, 0, 0, 1, 496, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 662;
+width = 643;
 }
 );
 unicode = 2026;

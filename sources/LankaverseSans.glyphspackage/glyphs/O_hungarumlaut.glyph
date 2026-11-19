@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 191, 100}";
+transform = "{1, 0, 0, 1, 186, 97}";
 },
 {
 alignment = -1;
@@ -14,14 +14,14 @@ name = O;
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 736;
+width = 715;
 },
 {
 components = (
 {
 alignment = -1;
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 230, 81}";
+transform = "{1, 0, 0, 1, 224, 79}";
 },
 {
 alignment = -1;
@@ -29,7 +29,7 @@ name = O;
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 691;
+width = 672;
 }
 );
 unicode = 0150;

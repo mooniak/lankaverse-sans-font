@@ -10,11 +10,11 @@ name = o;
 {
 alignment = -1;
 name = acute;
-transform = "{1, 0, 0, 1, 101, -68}";
+transform = "{1, 0, 0, 1, 98, -66}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 567;
+width = 551;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = o;
 {
 alignment = -1;
 name = acute;
-transform = "{1, 0, 0, 1, 154, -86}";
+transform = "{1, 0, 0, 1, 150, -84}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 561;
+width = 545;
 }
 );
 unicode = 00F3;

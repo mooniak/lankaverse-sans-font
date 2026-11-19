@@ -10,11 +10,11 @@ name = e;
 {
 alignment = -1;
 name = macron;
-transform = "{1, 0, 0, 1, 20, -58}";
+transform = "{1, 0, 0, 1, 19, -56}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 533;
+width = 518;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = e;
 {
 alignment = -1;
 name = macron;
-transform = "{1, 0, 0, 1, 78, -90}";
+transform = "{1, 0, 0, 1, 76, -87}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 519;
+width = 504;
 }
 );
 unicode = 0113;

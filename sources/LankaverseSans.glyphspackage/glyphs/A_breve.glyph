@@ -10,11 +10,11 @@ name = A;
 {
 alignment = -1;
 name = breve;
-transform = "{1, 0, 0, 1, 92, 100}";
+transform = "{1, 0, 0, 1, 89, 97}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 690;
+width = 671;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = A;
 {
 alignment = -1;
 name = breve;
-transform = "{1, 0, 0, 1, 121, 80}";
+transform = "{1, 0, 0, 1, 118, 78}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 637;
+width = 619;
 }
 );
 unicode = 0102;

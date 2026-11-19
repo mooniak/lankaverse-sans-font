@@ -10,11 +10,11 @@ name = u;
 {
 alignment = -1;
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 113, -67}";
+transform = "{1, 0, 0, 1, 110, -65}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 580;
+width = 564;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = u;
 {
 alignment = -1;
 name = hungarumlaut;
-transform = "{1, 0, 0, 1, 131, -86}";
+transform = "{1, 0, 0, 1, 127, -84}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 529;
+width = 514;
 }
 );
 unicode = 0171;

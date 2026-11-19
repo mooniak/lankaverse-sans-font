@@ -12,14 +12,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"924 -145 LINE",
-"924 15 LINE",
-"866 15 LINE",
-"866 -145 LINE"
+"898 -141 LINE",
+"898 15 LINE",
+"842 15 LINE",
+"842 -141 LINE"
 );
 }
 );
-width = 1019;
+width = 990;
 },
 {
 components = (
@@ -32,14 +32,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1018 -142 LINE",
-"1018 61 LINE",
-"877 61 LINE",
-"877 -142 LINE"
+"989 -138 LINE",
+"989 59 LINE",
+"852 59 LINE",
+"852 -138 LINE"
 );
 }
 );
-width = 1092;
+width = 1061;
 }
 );
 leftMetricsKey = tmNGA;

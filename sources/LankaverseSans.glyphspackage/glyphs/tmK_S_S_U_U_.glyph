@@ -9,11 +9,11 @@ name = tmKSSA;
 {
 alignment = -1;
 name = tmmUU;
-transform = "{1, 0, 0, 1, 1793, 0}";
+transform = "{1, 0, 0, 1, 1743, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 2409;
+width = 2342;
 },
 {
 components = (
@@ -23,11 +23,11 @@ name = tmKSSA;
 {
 alignment = -1;
 name = tmmUU;
-transform = "{1, 0, 0, 1, 2075, 0}";
+transform = "{1, 0, 0, 1, 2017, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 2782;
+width = 2704;
 }
 );
 leftMetricsKey = tmKSSA;

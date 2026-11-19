@@ -9,11 +9,11 @@ name = tmCA;
 {
 alignment = -1;
 name = tmmII;
-transform = "{1, 0, 0, 1, 633, 0}";
+transform = "{1, 0, 0, 1, 615, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 720;
+width = 700;
 },
 {
 components = (
@@ -23,11 +23,11 @@ name = tmCA;
 },
 {
 name = tmmII;
-transform = "{1, 0, 0, 1, 693, 0}";
+transform = "{1, 0, 0, 1, 674, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 771;
+width = 749;
 }
 );
 leftMetricsKey = tmCA;

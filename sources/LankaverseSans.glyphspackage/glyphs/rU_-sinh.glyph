@@ -10,7 +10,7 @@ transform = "{1, 0, 0, 1, -15, 0}";
 },
 {
 name = "aesign-sinh";
-transform = "{1, 0, 0, 1, 633, 0}";
+transform = "{1, 0, 0, 1, 615, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -18,14 +18,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"713 382 LINE",
-"713 437 LINE",
-"553 437 LINE",
-"553 382 LINE"
+"693 371 LINE",
+"693 425 LINE",
+"538 425 LINE",
+"538 371 LINE"
 );
 }
 );
-width = 965;
+width = 938;
 },
 {
 components = (
@@ -35,7 +35,7 @@ transform = "{1, 0, 0, 1, -7, 0}";
 },
 {
 name = "aesign-sinh";
-transform = "{1, 0, 0, 1, 699, 0}";
+transform = "{1, 0, 0, 1, 679, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
@@ -43,14 +43,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"802 325 LINE",
-"802 437 LINE",
-"652 437 LINE",
-"652 325 LINE"
+"780 316 LINE",
+"780 425 LINE",
+"634 425 LINE",
+"634 316 LINE"
 );
 }
 );
-width = 1069;
+width = 1039;
 }
 );
 leftMetricsKey = "ya-sinh";

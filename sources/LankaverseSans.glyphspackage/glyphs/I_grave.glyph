@@ -10,11 +10,11 @@ name = I;
 {
 alignment = -1;
 name = grave;
-transform = "{1, 0, 0, 1, -158, 100}";
+transform = "{1, 0, 0, 1, -154, 97}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 304;
+width = 295;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = I;
 {
 alignment = -1;
 name = grave;
-transform = "{1, 0, 0, 1, -154, 81}";
+transform = "{1, 0, 0, 1, -150, 79}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 232;
+width = 226;
 }
 );
 unicode = 00CC;

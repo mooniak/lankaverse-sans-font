@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = macron;
-transform = "{1, 0, 0, 1, -112, -58}";
+transform = "{1, 0, 0, 1, -109, -56}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
@@ -13,20 +13,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"211 0 LINE",
-"211 507 LINE",
-"65 507 LINE",
-"65 0 LINE"
+"205 0 LINE",
+"205 493 LINE",
+"63 493 LINE",
+"63 0 LINE"
 );
 }
 );
-width = 276;
+width = 268;
 },
 {
 components = (
 {
 name = macron;
-transform = "{1, 0, 0, 1, -88, -90}";
+transform = "{1, 0, 0, 1, -86, -87}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -34,14 +34,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"141 0 LINE",
-"141 507 LINE",
-"80 507 LINE",
-"80 0 LINE"
+"137 0 LINE",
+"137 493 LINE",
+"78 493 LINE",
+"78 0 LINE"
 );
 }
 );
-width = 221;
+width = 215;
 }
 );
 unicode = 012B;

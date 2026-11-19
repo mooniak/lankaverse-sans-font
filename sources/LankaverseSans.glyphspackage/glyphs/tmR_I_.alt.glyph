@@ -9,11 +9,11 @@ name = tmRA.alt;
 },
 {
 name = tmmI;
-transform = "{1, 0, 0, 1, 565, 0}";
+transform = "{1, 0, 0, 1, 549, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 813;
+width = 790;
 },
 {
 components = (
@@ -22,11 +22,11 @@ name = tmRA.alt;
 },
 {
 name = tmmI;
-transform = "{1, 0, 0, 1, 645, 0}";
+transform = "{1, 0, 0, 1, 627, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 937;
+width = 911;
 }
 );
 leftMetricsKey = tmRA.alt;

@@ -8,7 +8,7 @@ name = tmNA;
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 805;
+width = 782;
 },
 {
 components = (
@@ -17,7 +17,7 @@ name = tmNA;
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 862;
+width = 838;
 }
 );
 unicode = 0BFA;

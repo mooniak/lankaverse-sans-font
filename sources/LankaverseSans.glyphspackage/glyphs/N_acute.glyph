@@ -10,11 +10,11 @@ name = N;
 {
 alignment = -1;
 name = acute;
-transform = "{1, 0, 0, 1, 168, 100}";
+transform = "{1, 0, 0, 1, 163, 97}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 697;
+width = 677;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = N;
 {
 alignment = -1;
 name = acute;
-transform = "{1, 0, 0, 1, 222, 80}";
+transform = "{1, 0, 0, 1, 216, 78}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 667;
+width = 648;
 }
 );
 unicode = 0143;

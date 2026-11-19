@@ -10,11 +10,11 @@ name = c;
 {
 alignment = -1;
 name = caron;
-transform = "{1, 0, 0, 1, 25, -68}";
+transform = "{1, 0, 0, 1, 24, -66}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 469;
+width = 456;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = c;
 {
 alignment = -1;
 name = caron;
-transform = "{1, 0, 0, 1, 76, -86}";
+transform = "{1, 0, 0, 1, 74, -84}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 472;
+width = 459;
 }
 );
 unicode = 010D;

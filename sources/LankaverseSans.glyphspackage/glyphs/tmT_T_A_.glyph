@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = abvm;
-position = "{429, 543}";
+position = "{417, 528}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -13,22 +13,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"762 0 LINE",
-"762 55 LINE",
-"157 55 LINE",
-"157 543 LINE",
-"95 543 LINE",
-"95 0 LINE"
+"741 0 LINE",
+"741 53 LINE",
+"153 53 LINE",
+"153 528 LINE",
+"92 528 LINE",
+"92 0 LINE"
 );
 }
 );
-width = 782;
+width = 760;
 },
 {
 anchors = (
 {
 name = abvm;
-position = "{439, 576}";
+position = "{427, 560}";
 }
 );
 background = {
@@ -36,12 +36,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"822 0 LINE",
-"822 116 LINE",
-"217 116 LINE",
-"217 576 LINE",
-"75 576 LINE",
-"75 0 LINE"
+"799 0 LINE",
+"799 113 LINE",
+"211 113 LINE",
+"211 560 LINE",
+"73 560 LINE",
+"73 0 LINE"
 );
 }
 );
@@ -51,16 +51,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"802 0 LINE",
-"802 116 LINE",
-"217 116 LINE",
-"217 576 LINE",
-"75 576 LINE",
-"75 0 LINE"
+"780 0 LINE",
+"780 113 LINE",
+"211 113 LINE",
+"211 560 LINE",
+"73 560 LINE",
+"73 0 LINE"
 );
 }
 );
-width = 822;
+width = 799;
 }
 );
 unicode = 0B9F;

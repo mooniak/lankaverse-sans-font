@@ -5,15 +5,15 @@ layers = (
 components = (
 {
 name = "esign-sinh";
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 19, 0}";
 },
 {
 name = "esign-sinh";
-transform = "{1, 0, 0, 1, 611, 0}";
+transform = "{1, 0, 0, 1, 594, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 1202;
+width = 1168;
 },
 {
 components = (
@@ -23,11 +23,11 @@ transform = "{1, 0, 0, 1, 5, 0}";
 },
 {
 name = "esign-sinh";
-transform = "{1, 0, 0, 1, 651, 0}";
+transform = "{1, 0, 0, 1, 633, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 1297;
+width = 1261;
 }
 );
 leftMetricsKey = "ga-sinh";

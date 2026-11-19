@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = dieresis;
-transform = "{1, 0, 0, 1, 89, 99}";
+transform = "{1, 0, 0, 1, 87, 96}";
 },
 {
 alignment = -1;
@@ -14,14 +14,14 @@ name = U;
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 668;
+width = 649;
 },
 {
 components = (
 {
 alignment = -1;
 name = dieresis;
-transform = "{1, 0, 0, 1, 120, 79}";
+transform = "{1, 0, 0, 1, 117, 77}";
 },
 {
 alignment = -1;
@@ -29,7 +29,7 @@ name = U;
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 639;
+width = 621;
 }
 );
 unicode = 00DC;

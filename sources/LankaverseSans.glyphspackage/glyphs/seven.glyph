@@ -7,23 +7,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"52 0 LINE",
-"307 531 LINE",
-"460 531 LINE",
-"206 0 LINE"
+"51 0 LINE",
+"298 516 LINE",
+"447 516 LINE",
+"200 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"20 531 LINE",
-"20 655 LINE",
-"460 655 LINE",
-"460 531 LINE"
+"19 516 LINE",
+"19 637 LINE",
+"447 637 LINE",
+"447 516 LINE"
 );
 }
 );
-width = 480;
+width = 467;
 },
 {
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
@@ -31,23 +31,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"92 0 LINE",
-"368 599 LINE",
-"433 599 LINE",
-"158 0 LINE"
+"89 0 LINE",
+"358 582 LINE",
+"421 582 LINE",
+"154 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"10 599 LINE",
-"10 654 LINE",
-"433 654 LINE",
-"433 599 LINE"
+"10 582 LINE",
+"10 636 LINE",
+"421 636 LINE",
+"421 582 LINE"
 );
 }
 );
-width = 443;
+width = 431;
 }
 );
 unicode = 0037;

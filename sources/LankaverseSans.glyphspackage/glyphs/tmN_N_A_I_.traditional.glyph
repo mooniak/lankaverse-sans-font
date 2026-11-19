@@ -10,11 +10,11 @@ name = tmmAI.traditional;
 {
 alignment = -1;
 name = tmNNA;
-transform = "{1, 0, 0, 1, 485, 0}";
+transform = "{1, 0, 0, 1, 471, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 2098;
+width = 2039;
 },
 {
 components = (
@@ -24,11 +24,11 @@ name = tmmAI.traditional;
 {
 alignment = -1;
 name = tmNNA;
-transform = "{1, 0, 0, 1, 533, 0}";
+transform = "{1, 0, 0, 1, 518, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 2216;
+width = 2154;
 }
 );
 leftMetricsKey = tmmAI.traditional;

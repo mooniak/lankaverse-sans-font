@@ -9,11 +9,11 @@ name = tmHA;
 {
 alignment = -1;
 name = tmmU;
-transform = "{1, 0, 0, 1, 1587, 0}";
+transform = "{1, 0, 0, 1, 1543, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 1993;
+width = 1937;
 },
 {
 components = (
@@ -23,11 +23,11 @@ name = tmHA;
 },
 {
 name = tmmU;
-transform = "{1, 0, 0, 1, 1607, 0}";
+transform = "{1, 0, 0, 1, 1562, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 2064;
+width = 2006;
 }
 );
 leftMetricsKey = tmHA;

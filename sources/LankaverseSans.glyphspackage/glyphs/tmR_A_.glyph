@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = abvm;
-position = "{320, 543}";
+position = "{311, 528}";
 }
 );
 background = {
@@ -13,18 +13,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"95 0 LINE",
-"157 0 LINE",
-"157 489 LINE",
-"383 489 LINE",
-"383 45 LINE",
-"260 -182 LINE",
-"324 -182 LINE",
-"445 45 LINE",
-"445 489 LINE",
-"545 489 LINE",
-"545 543 LINE",
-"95 543 LINE"
+"92 0 LINE",
+"153 0 LINE",
+"153 475 LINE",
+"372 475 LINE",
+"372 44 LINE",
+"253 -177 LINE",
+"315 -177 LINE",
+"433 44 LINE",
+"433 475 LINE",
+"530 475 LINE",
+"530 528 LINE",
+"92 528 LINE"
 );
 }
 );
@@ -34,28 +34,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"95 0 LINE",
-"157 0 LINE",
-"157 489 LINE",
-"383 489 LINE",
-"383 62 LINE",
-"251 -182 LINE",
-"324 -182 LINE",
-"445 45 LINE",
-"445 489 LINE",
-"545 489 LINE",
-"545 543 LINE",
-"95 543 LINE"
+"92 0 LINE",
+"153 0 LINE",
+"153 475 LINE",
+"372 475 LINE",
+"372 60 LINE",
+"244 -177 LINE",
+"315 -177 LINE",
+"433 44 LINE",
+"433 475 LINE",
+"530 475 LINE",
+"530 528 LINE",
+"92 528 LINE"
 );
 }
 );
-width = 565;
+width = 549;
 },
 {
 anchors = (
 {
 name = abvm;
-position = "{355, 576}";
+position = "{345, 560}";
 }
 );
 background = {
@@ -63,18 +63,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"75 0 LINE",
-"217 0 LINE",
-"217 464 LINE",
-"395 464 LINE",
-"395 34 LINE",
-"247 -201 LINE",
-"389 -201 LINE",
-"537 34 LINE",
-"537 464 LINE",
-"635 464 LINE",
-"635 576 LINE",
-"75 576 LINE"
+"73 0 LINE",
+"211 0 LINE",
+"211 451 LINE",
+"384 451 LINE",
+"384 33 LINE",
+"240 -195 LINE",
+"378 -195 LINE",
+"522 33 LINE",
+"522 451 LINE",
+"617 451 LINE",
+"617 560 LINE",
+"73 560 LINE"
 );
 }
 );
@@ -84,22 +84,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"75 0 LINE",
-"217 0 LINE",
-"217 464 LINE",
-"395 464 LINE",
-"395 54 LINE",
-"234 -201 LINE",
-"389 -201 LINE",
-"537 34 LINE",
-"537 464 LINE",
-"635 464 LINE",
-"635 576 LINE",
-"75 576 LINE"
+"73 0 LINE",
+"211 0 LINE",
+"211 451 LINE",
+"384 451 LINE",
+"384 52 LINE",
+"227 -195 LINE",
+"378 -195 LINE",
+"522 33 LINE",
+"522 451 LINE",
+"617 451 LINE",
+"617 560 LINE",
+"73 560 LINE"
 );
 }
 );
-width = 645;
+width = 627;
 }
 );
 unicode = 0BB0;

@@ -9,11 +9,11 @@ name = tmO;
 },
 {
 name = tmLLA;
-transform = "{1, 0, 0, 1, 890, 0}";
+transform = "{1, 0, 0, 1, 865, 0}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 1876;
+width = 1823;
 },
 {
 components = (
@@ -22,11 +22,11 @@ name = tmO;
 },
 {
 name = tmLLA;
-transform = "{1, 0, 0, 1, 980, 0}";
+transform = "{1, 0, 0, 1, 953, 0}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 2042;
+width = 1985;
 }
 );
 unicode = 0B94;

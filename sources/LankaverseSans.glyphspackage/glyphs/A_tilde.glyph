@@ -10,11 +10,11 @@ name = A;
 {
 alignment = -1;
 name = tilde;
-transform = "{1, 0, 0, 1, 97, 120}";
+transform = "{1, 0, 0, 1, 94, 117}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 690;
+width = 671;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = A;
 {
 alignment = -1;
 name = tilde;
-transform = "{1, 0, 0, 1, 110, 94}";
+transform = "{1, 0, 0, 1, 107, 91}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 637;
+width = 619;
 }
 );
 unicode = 00C3;

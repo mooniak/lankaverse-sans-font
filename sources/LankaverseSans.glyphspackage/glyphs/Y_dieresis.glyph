@@ -10,11 +10,11 @@ name = Y;
 {
 alignment = -1;
 name = dieresis;
-transform = "{1, 0, 0, 1, 79, 99}";
+transform = "{1, 0, 0, 1, 77, 96}";
 }
 );
 layerId = "7B4D842D-CA8D-4153-9CDE-FADFBE419175";
-width = 643;
+width = 625;
 },
 {
 components = (
@@ -25,11 +25,11 @@ name = Y;
 {
 alignment = -1;
 name = dieresis;
-transform = "{1, 0, 0, 1, 89, 78}";
+transform = "{1, 0, 0, 1, 87, 76}";
 }
 );
 layerId = "25BA55F5-DD3E-4682-A696-ADF7D9496427";
-width = 580;
+width = 564;
 }
 );
 unicode = 0178;
