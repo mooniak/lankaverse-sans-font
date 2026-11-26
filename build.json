@@ -1,0 +1,175 @@
+{
+  "id": "lankaverse-sans",
+  "family": "Lankaverse Sans",
+  "scripts": [
+    "Sinh",
+    "Latn",
+    "Taml"
+  ],
+  "version": "0.500",
+  "channel": "canary",
+  "commit": "d85cd65faeb465d6955b1e900105a252f16da729",
+  "commit_short": "d85cd65",
+  "ref_name": "dev",
+  "repository": "mooniak/lankaverse-sans-font",
+  "run_url": "https://github.com/mooniak/lankaverse-sans-font/actions/runs/45827314926",
+  "actor": "pathumego",
+  "generated_at": "2026-11-26T13:16:11Z",
+  "qa": {
+    "profile": "mooniak",
+    "verdict": "fail",
+    "pass_rate": 41,
+    "counts": {
+      "FAIL": 20,
+      "WARN": 93,
+      "SKIP": 35,
+      "INFO": 13,
+      "PASS": 88
+    },
+    "total_checks": 249
+  },
+  "stage": {
+    "n": 1,
+    "name": "Bootstrap",
+    "cumulative": 9,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": false,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/variable/LankaverseSansCANARY[wght].ttf",
+      "format": "ttf",
+      "bytes": 251644,
+      "sha256": "34a5fb13af538ed4cc8037cde64d0d00369edd577e87f8834f5065c2f40274fa",
+      "style": "Light",
+      "kind": "variable"
+    },
+    {
+      "path": "fonts/webfonts/LankaverseSansCANARY[wght].woff2",
+      "format": "woff2",
+      "bytes": 93268,
+      "sha256": "82c7ddbf02a579e7600e3227104a79a43317d1f78e01e1246836e729a60a772d",
+      "style": "Light",
+      "kind": "variable"
+    }
+  ],
+  "proof_gate": {
+    "stage": 1,
+    "gated": true,
+    "shown": [
+      "shape-groups",
+      "sinhala-alphabet",
+      "spacing_strings",
+      "test-texts-stages",
+      "tamil-alphabet",
+      "tamil-signs-and-groups",
+      "tamil-pulli-and-ligatures",
+      "tamil-traditional-orthography",
+      "tamil-numerals",
+      "tamil-pangram",
+      "tamil-kern-pairs",
+      "tamil-prose",
+      "latin-alphabet",
+      "latin-numerals",
+      "latin-pangram",
+      "latin-kern-pairs",
+      "latin-prose",
+      "latin-waterfall"
+    ],
+    "withheld": [
+      [
+        "classical-texts",
+        9
+      ],
+      [
+        "conjuncts",
+        9
+      ],
+      [
+        "devanagari-pangram",
+        9
+      ],
+      [
+        "display-strings",
+        4
+      ],
+      [
+        "indo-arabic-numerals",
+        4
+      ],
+      [
+        "kern-pairs",
+        3
+      ],
+      [
+        "libreoffice-ui-strings",
+        4
+      ],
+      [
+        "marks",
+        5
+      ],
+      [
+        "mixed-script",
+        9
+      ],
+      [
+        "multiscript",
+        9
+      ],
+      [
+        "numerals",
+        4
+      ],
+      [
+        "ot-features",
+        9
+      ],
+      [
+        "pali-and-sanskrit-words",
+        9
+      ],
+      [
+        "prose",
+        4
+      ],
+      [
+        "punctuation",
+        4
+      ],
+      [
+        "rakar",
+        9
+      ],
+      [
+        "signs-combinations",
+        5
+      ],
+      [
+        "sinhala-pangram",
+        3
+      ],
+      [
+        "structured-texts",
+        4
+      ]
+    ],
+    "missing_for_next": [
+      "fam-i-term"
+    ],
+    "scripts": [
+      "Tamil",
+      "Latin"
+    ]
+  }
+}
